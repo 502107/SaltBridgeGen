@@ -9,4 +9,4 @@ Salt-bridges are only considered in a distance > 3.2 Å. To change this to a max
 
 [^1]: Requires python (pkg: pandas, numpy, sys)
 [^2]: Requires R
-[^3]: See DOI: 10.1021/ja039159c [https://pubs.acs.org/doi/10.1021/ja039159c]
+[^3]: See DOI: [10.1021/ja039159c](https://pubs.acs.org/doi/10.1021/ja039159c)
